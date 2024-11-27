@@ -4,22 +4,84 @@
 
 Release Date: December 19, 1997
 ### Director:
+![image](https://github.com/user-attachments/assets/264c01df-cf7a-4613-88d5-5fb403a39814)
+
+
+
 > James Cameron
+
+
 ### Main Cast:
+![image](https://github.com/user-attachments/assets/b70de28e-52b3-45fb-a147-419b758a959a)
+
+
+
+
 **Leonardo DiCaprio** 
+
+
+
+
+
 > as Jack Dawson
 
+
+![image](https://github.com/user-attachments/assets/6757c73d-32ad-439e-905e-f51f94afb454)
+
+
+
+
+
 **Kate Winslet** 
+
+
+
+
 > as Rose DeWitt Bukater
 
+
+
+![image](https://github.com/user-attachments/assets/d4492c60-c9f2-4d93-a3df-15f414866873)
+
+
+
+
+
 **Billy Zane** 
+
+
+
 > as Cal Hockley
 
+
+
+![image](https://github.com/user-attachments/assets/9a683999-887b-47de-9357-095fdd31ca0d)
+
+
+
+
 **Bill Paxton** 
+
+
+
+
 > as Brock Lovett
 
+
+
+![image](https://github.com/user-attachments/assets/ce49d7fb-1b9b-4514-9895-08623002d93e)
+
+
+
+
 **Kathy Bates** 
+
+
+
 > as Molly Brown
+
+
+
 
 
 ## Overview
@@ -59,7 +121,7 @@ Release Date: December 19, 1997
 > Detailed recreation of the Titanic and its sinking
 
 ## **Ratings**:
-⭐⭐⭐⭐⭐ (5/5)
+⭐⭐⭐⭐⭐ (4.8/5)
 
 ## **MovieReviews**
 **Roger Ebert**: 
